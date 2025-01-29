@@ -2,85 +2,64 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [Header("Horizontal Movement Settings")]
-    [SerializeField] public float walkSpeed = 10f;
+    public float moveSpeed = 5f;       // Karakterin hareket hızı
+    public float jumpForce = 10f;     // İlk zıplama kuvveti
+    public float jumpHoldForce = 2f;  // Basılı tutma kuvveti
+    public float maxJumpTime = 0.2f;  // Maksimum zıplama süresi
+    public LayerMask groundLayer;     // Zemin katmanı
+    public Transform groundCheck;     // Zemin kontrol noktası
 
-    [Header("Ground Check Settings")]
-    [SerializeField] public float jumpForce = 45f;
-    [SerializeField] public Transform groundCheckPoint;
-    [SerializeField] public float groundCheckY = 0.2f;
-    [SerializeField] public float groundCheckX = 0.5f;
-
-    [SerializeField] public LayerMask whatIsGround;
-
-    private Rigidbody2D rb;
-    private float xAxis;
+    private Rigidbody2D rb;           // Rigidbody bileşeni
+    private bool isGrounded;          // Karakter zeminde mi?
+    private bool isJumping;           // Karakter şu anda zıplıyor mu?
+    private float jumpTimeCounter;    // Zıplama süresi sayacı
+    private float moveInput;          // Hareket girdisi
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        PrintInstruction();
     }
 
     void Update()
     {
-        GetInputs();
-        MovePlayer();
+        HorizontalMovement();
+        FlipCharacter();
+        GroundCheck();
         Jump();
-        Flip();
     }
 
-    void PrintInstruction()
+    private void HorizontalMovement()
     {
-        Debug.Log("Welcome to the Forest");
-        Debug.Log("Move using arrow keys or wasd");
-    }
-    void GetInputs()
-    {
-        xAxis = Input.GetAxisRaw("Horizontal");
+        // Sağa sola hareket
+        moveInput = Input.GetAxis("Horizontal");
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
 
-    private void MovePlayer()
+    private void Jump()
     {
-        rb.linearVelocity = new Vector2(walkSpeed * xAxis, rb.linearVelocity.y);
-    }
-
-    public bool Grounded()
-    {
-        if(Physics2D.Raycast(groundCheckPoint.position, Vector2.down, groundCheckY, whatIsGround) 
-           || Physics2D.Raycast(groundCheckPoint.position + new Vector3(groundCheckX, 0, 0), Vector2.down, groundCheckY, whatIsGround)
-           || Physics2D.Raycast(groundCheckPoint.position + new Vector3(-groundCheckX, 0, 0), Vector2.down, groundCheckY, whatIsGround))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
-    
-    void Jump()
-    {
-        if(Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0)
+        if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
         }
 
-        if(Input.GetButtonDown("Jump") && Grounded())
+        if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.linearVelocity = new Vector3(rb.linearVelocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
     }
 
-    void Flip()
+    private void FlipCharacter()
     {
-        if(xAxis < 0)
-        {
-            transform.localScale = new Vector2(-1, transform.localScale.y);
-        }
-        else if (xAxis > 0)
-        {
-            transform.localScale = new Vector2(1, transform.localScale.y);
-        }
-    }    
+        // Karakterin yönünü döndür
+        if (moveInput > 0)
+            transform.localScale = new Vector3(1, 1, 1); // Sağa bak
+        else if (moveInput < 0)
+            transform.localScale = new Vector3(-1, 1, 1); // Sola bak
+    }
+
+    private void GroundCheck()
+    {
+        // Zemin kontrolü
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
+    }
 }
