@@ -125,7 +125,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.10133541}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -135,7 +135,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 1.2026708}
   m_EdgeRadius: 0
 --- !u!50 &3084977000743647988
 Rigidbody2D:
@@ -177,7 +177,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trapPrefab: {fileID: 8319473777986554569, guid: 735a085e1db0e5d44b9b7f45d7e5de6b, type: 3}
-  spawnPoint: {fileID: 0}
   trapDelay: 2
   numberOfTraps: 3
 --- !u!114 &3827855825083272794

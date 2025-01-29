@@ -28,14 +28,14 @@ public class Owl : MonoBehaviour
 
         // Tuzak oluştur ve Player'ın altına bırak
         Vector3 trapPosition = new Vector3(player.position.x, player.position.y - 1f, player.position.z);
-        GameObject trap = Instantiate(trapPrefab, trapPosition, Quaternion.identity);
-        trap.GetComponent<OwlTrap>().ActivateTrap(); 
-
-        numberOfTraps--; // Kalan tuzak sayısını azalt
-
-        if (numberOfTraps <= 0)
+        if (numberOfTraps > 0)
+        {  
+            GameObject trap = Instantiate(trapPrefab, trapPosition, Quaternion.identity);
+            trap.GetComponent<OwlTrap>().ActivateTrap(); 
+        }
+        else if (numberOfTraps == 3)
         {
-            CancelInvoke("PlaceTrap");  // Tuzak yerleştirmeyi durdur
+            CancelInvoke("PlaceTrap");  // Tuzak yerleştirme işlemini durdur
         }
     }
 }
