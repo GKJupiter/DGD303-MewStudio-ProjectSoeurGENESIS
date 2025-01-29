@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3084977000743647988}
   - component: {fileID: 8582293175689031335}
   - component: {fileID: 3827855825083272794}
+  - component: {fileID: 8386484420224746166}
   m_Layer: 7
   m_Name: Owl
   m_TagString: Untagged
@@ -194,3 +195,25 @@ MonoBehaviour:
   maxHealth: 100
   currentHealth: 0
   deathEffect: {fileID: 0}
+--- !u!95 &8386484420224746166
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7804001758554995326}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4d8a4fbb6663aaa4d843b3302d1e2de4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

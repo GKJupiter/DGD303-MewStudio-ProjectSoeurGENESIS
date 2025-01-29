@@ -27,7 +27,7 @@ public class Owl : MonoBehaviour
         if (player == null || numberOfTraps <= 0) return;
 
         // Tuzak oluştur ve Player'ın altına bırak
-        Vector3 trapPosition = new Vector3(player.position.x, player.position.y - 1f, player.position.z);
+        Vector3 trapPosition = new Vector3(player.position.x, player.position.y - 0.5f, player.position.z);
         if (numberOfTraps > 0)
         {  
             GameObject trap = Instantiate(trapPrefab, trapPosition, Quaternion.identity);
