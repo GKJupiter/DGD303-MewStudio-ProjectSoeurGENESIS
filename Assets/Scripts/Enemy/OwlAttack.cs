@@ -3,26 +3,39 @@ using UnityEngine;
 public class Owl : MonoBehaviour
 {
     public GameObject trapPrefab;  // Tuzak prefab'ı
-    public Transform spawnPoint;   // Tuzakların spawn olacağı nokta
-    public float trapDelay = 2f;   // Tuzakların yerleştirilme süresi (saniye cinsinden)
-    public int numberOfTraps = 3;  // Baykuşun yerleştireceği tuzak sayısı
+    public float trapDelay = 2f;   // Tuzak bırakma süresi
+    public int numberOfTraps = 3;  // Kaç tuzak bırakacak
+    private Transform player;      // Player'ın transform'u
 
     void Start()
     {
-        InvokeRepeating("PlaceTrap", 0f, trapDelay);  // Belirli aralıklarla tuzak yerleştir
+        // Oyuncuyu sahnede bul
+        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
+        if (playerObj != null)
+        {
+            player = playerObj.transform;
+            InvokeRepeating("PlaceTrap", 0f, trapDelay);  // Belirli aralıklarla tuzak bırak
+        }
+        else
+        {
+            Debug.LogWarning("Player bulunamadı! Baykuş tuzak bırakmayacak.");
+        }
     }
 
     void PlaceTrap()
     {
-        if (numberOfTraps > 0)
+        if (player == null || numberOfTraps <= 0) return;
+
+        // Tuzak oluştur ve Player'ın altına bırak
+        Vector3 trapPosition = new Vector3(player.position.x, player.position.y - 1f, player.position.z);
+        GameObject trap = Instantiate(trapPrefab, trapPosition, Quaternion.identity);
+        trap.GetComponent<OwlTrap>().ActivateTrap(); 
+
+        numberOfTraps--; // Kalan tuzak sayısını azalt
+
+        if (numberOfTraps <= 0)
         {
-            // Tuzak oluştur
-            GameObject trap = Instantiate(trapPrefab, spawnPoint.position, Quaternion.identity);
-            trap.GetComponent<OwlTrap>().ActivateTrap();  // Tuzak aktif hale gelir
-        }
-        else if (numberOfTraps == 3)
-        {
-            CancelInvoke("PlaceTrap");  // Tuzak yerleştirme işlemini durdur
+            CancelInvoke("PlaceTrap");  // Tuzak yerleştirmeyi durdur
         }
     }
 }

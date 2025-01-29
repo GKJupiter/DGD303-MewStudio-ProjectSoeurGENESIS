@@ -5,6 +5,20 @@ public class EnemyMovement : MonoBehaviour
     public Transform player;  // Oyuncu nesnesi
     public float moveSpeed = 3f;  // Düşmanın hareket hızı
 
+     void Start()
+    {
+        // Oyuncuyu sahnede bul
+        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
+        if (playerObj != null)
+        {
+            player = playerObj.transform;
+        }
+        else
+        {
+            Debug.LogWarning("Player sahnede bulunamadı!"); 
+        }
+    }
+
     void Update()
     {
         if (player != null)
@@ -12,7 +26,6 @@ public class EnemyMovement : MonoBehaviour
             // Oyuncuya doğru yönelme
             Vector3 direction = player.position - transform.position;
             direction.z = 0;  // Z ekseninde hareketi engellemek için
-            direction.y = 0;  // Y eksenindeki hareketi engellemek için
             direction.Normalize();  // Yönü normalize et
 
             // Düşman objesini hareket ettir

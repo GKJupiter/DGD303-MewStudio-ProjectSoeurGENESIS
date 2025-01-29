@@ -225,7 +225,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  moveSpeed: 3
+  moveSpeed: 5
 --- !u!114 &258976387761001742
 MonoBehaviour:
   m_ObjectHideFlags: 0

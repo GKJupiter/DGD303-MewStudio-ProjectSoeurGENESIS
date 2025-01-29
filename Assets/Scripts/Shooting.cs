@@ -16,9 +16,9 @@ public class Shooting : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1")) // Ateş tuşuna basıldığında
         {
-// Karakterin bakış yönüne göre mermiyi fırlatıyoruz
-    GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
-    bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(bulletSpeed * transform.localScale.x, 0f);
+            // Karakterin bakış yönüne göre mermiyi fırlatıyoruz
+            GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+            bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(bulletSpeed * transform.localScale.x, 0f);
 
             // Mermiyi belirli bir süre sonra yok et (optimizasyon için)
             Destroy(bullet, destroyTime);
