@@ -20,7 +20,7 @@ public class DamageDealer : MonoBehaviour
             }
         }
 
-        // Mermiyi yok et
+        // Mermiyi yok et naber cnm slayyy
         Destroy(gameObject);
     }
 }
