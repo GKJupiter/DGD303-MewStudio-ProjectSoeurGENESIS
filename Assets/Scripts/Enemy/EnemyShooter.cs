@@ -9,21 +9,6 @@ public class EnemyShooter : MonoBehaviour
     private float nextFireTime = 0f; // Son ateşten sonra ne kadar zaman geçtiğini kontrol eder
     public Transform player;         // Oyuncu nesnesi
 
-
-        void Start()
-    {
-        // Oyuncuyu sahnede bul
-        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-        if (playerObj != null)
-        {
-            player = playerObj.transform;
-        }
-        else
-        {
-            Debug.LogWarning("Player sahnede bulunamadı!"); 
-        }
-    }
-
     void Update()
     {
         if (Time.time >= nextFireTime)
@@ -39,7 +24,6 @@ public class EnemyShooter : MonoBehaviour
         {
             // Oyuncuya doğru yönelme
             Vector3 direction = player.position - firePoint.position;
-            direction.y = 0;  // Y eksenindeki hareketi engellemek için
             direction.z = 0;  // Z eksenindeki hareketi engellemek için
             direction.Normalize();  // Yönü normalize et
 
