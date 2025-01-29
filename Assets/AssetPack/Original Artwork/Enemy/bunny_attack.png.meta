@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 680e38819743a824f8a00e25329abbe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4452345611430867115
+    second: rabbit_attack_0
+  - first:
+      213: 7218165865408975108
+    second: rabbit_attack_1
+  - first:
+      213: 6206949064434292969
+    second: rabbit_attack_2
+  - first:
+      213: 2581146175143571873
+    second: rabbit_attack_3
+  - first:
+      213: 4115768281019231147
+    second: rabbit_attack_4
+  - first:
+      213: -1729368979347192328
+    second: rabbit_attack_5
+  - first:
+      213: 4229791313224182577
+    second: rabbit_attack_6
+  - first:
+      213: -1582441581475857292
+    second: rabbit_attack_7
+  - first:
+      213: -2096062513520232253
+    second: rabbit_attack_8
+  - first:
+      213: 4375749273999697588
+    second: rabbit_attack_9
+  - first:
+      213: -3601292126812742547
+    second: rabbit_attack_10
+  - first:
+      213: 890615786358023830
+    second: rabbit_attack_11
+  - first:
+      213: 8562368090059140763
+    second: rabbit_attack_12
+  - first:
+      213: 3330215660841721725
+    second: rabbit_attack_13
+  - first:
+      213: 1073762777603559698
+    second: rabbit_attack_14
+  - first:
+      213: -8207177773534989308
+    second: rabbit_attack_15
+  - first:
+      213: 5942437222671636400
+    second: rabbit_attack_16
+  - first:
+      213: -5845230743257702102
+    second: rabbit_attack_17
+  - first:
+      213: 2167950479380454159
+    second: rabbit_attack_18
+  - first:
+      213: 6137003683405688219
+    second: rabbit_attack_19
+  - first:
+      213: -3604205804619470093
+    second: rabbit_attack_20
+  - first:
+      213: 2514154728368298925
+    second: rabbit_attack_21
+  - first:
+      213: -3159138041121856895
+    second: rabbit_attack_22
+  - first:
+      213: -2186753926296131509
+    second: rabbit_attack_23
+  - first:
+      213: 3413169555889041202
+    second: rabbit_attack_24
+  - first:
+      213: 6959915791181703562
+    second: rabbit_attack_25
+  - first:
+      213: 6212008194467213509
+    second: rabbit_attack_26
+  - first:
+      213: -1576578951235048674
+    second: rabbit_attack_27
+  - first:
+      213: 6023021620595525431
+    second: rabbit_attack_28
+  - first:
+      213: -2925565429403412530
+    second: rabbit_attack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbit_attack_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3199
+        width: 916
+        height: 1267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03b9a7eb8e9cd30800000000000000
+      internalID: 4452345611430867115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_1
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3199
+        width: 878
+        height: 1255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015d817c931c2460800000000000000
+      internalID: 7218165865408975108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_2
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 3199
+        width: 840
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e89c8cc943832650800000000000000
+      internalID: 6206949064434292969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_3
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 3199
+        width: 801
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a17ac255c212d320800000000000000
+      internalID: 2581146175143571873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_4
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 3199
+        width: 787
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba8fff1752e1930800000000000000
+      internalID: 4115768281019231147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_5
+      rect:
+        serializedVersion: 2
+        x: 8096
+        y: 3199
+        width: 782
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f54e6c631c0008e0800000000000000
+      internalID: -1729368979347192328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_6
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 3199
+        width: 790
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba2caf9cc33ba30800000000000000
+      internalID: 4229791313224182577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_7
+      rect:
+        serializedVersion: 2
+        x: 11177
+        y: 3199
+        width: 804
+        height: 1191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf25a04c90a0ae0800000000000000
+      internalID: -1582441581475857292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_8
+      rect:
+        serializedVersion: 2
+        x: 12718
+        y: 3199
+        width: 815
+        height: 1195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83d96df3a49e2e0800000000000000
+      internalID: -2096062513520232253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_9
+      rect:
+        serializedVersion: 2
+        x: 14260
+        y: 3199
+        width: 822
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6eceee7c8c9bc30800000000000000
+      internalID: 4375749273999697588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_10
+      rect:
+        serializedVersion: 2
+        x: 15795
+        y: 3199
+        width: 833
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c5ae024e3a50ec0800000000000000
+      internalID: -3601292126812742547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_11
+      rect:
+        serializedVersion: 2
+        x: 17332
+        y: 3199
+        width: 841
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a939c65a1c5c00800000000000000
+      internalID: 890615786358023830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1663
+        width: 847
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e6d1c9964a3d670800000000000000
+      internalID: 8562368090059140763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1663
+        width: 851
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd9e1df7d473e20800000000000000
+      internalID: 3330215660841721725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_14
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 1663
+        width: 827
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d814ae85c6ee00800000000000000
+      internalID: 1073762777603559698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_15
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1663
+        width: 780
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40437f76c4f3a1e80800000000000000
+      internalID: -8207177773534989308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_16
+      rect:
+        serializedVersion: 2
+        x: 6574
+        y: 1663
+        width: 771
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d66d6b27c77250800000000000000
+      internalID: 5942437222671636400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_17
+      rect:
+        serializedVersion: 2
+        x: 8039
+        y: 1663
+        width: 844
+        height: 1291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21aeedbb9191eea0800000000000000
+      internalID: -5845230743257702102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_18
+      rect:
+        serializedVersion: 2
+        x: 9459
+        y: 1663
+        width: 959
+        height: 1326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1c16897b161e10800000000000000
+      internalID: 2167950479380454159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_19
+      rect:
+        serializedVersion: 2
+        x: 10886
+        y: 1663
+        width: 1068
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de8a6b5540b2550800000000000000
+      internalID: 6137003683405688219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_20
+      rect:
+        serializedVersion: 2
+        x: 12329
+        y: 1663
+        width: 1160
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6146aae94bfdc0800000000000000
+      internalID: -3604205804619470093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_21
+      rect:
+        serializedVersion: 2
+        x: 13887
+        y: 1663
+        width: 1138
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabd2c6a76214e220800000000000000
+      internalID: 2514154728368298925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_22
+      rect:
+        serializedVersion: 2
+        x: 15446
+        y: 1663
+        width: 1115
+        height: 1309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182228e70bc7824d0800000000000000
+      internalID: -3159138041121856895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_23
+      rect:
+        serializedVersion: 2
+        x: 17005
+        y: 1663
+        width: 1092
+        height: 1316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ade3d3e617a1e0800000000000000
+      internalID: -2186753926296131509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 1069
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa1f890a30e5f20800000000000000
+      internalID: 3413169555889041202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 127
+        width: 1045
+        height: 1327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8964007986969060800000000000000
+      internalID: 6959915791181703562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_26
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 127
+        width: 1021
+        height: 1326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0b80d4a8c753650800000000000000
+      internalID: 6212008194467213509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_27
+      rect:
+        serializedVersion: 2
+        x: 4813
+        y: 127
+        width: 996
+        height: 1319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be6430ccdde1ae0800000000000000
+      internalID: -1576578951235048674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_28
+      rect:
+        serializedVersion: 2
+        x: 6374
+        y: 127
+        width: 972
+        height: 1305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737081aa042169350800000000000000
+      internalID: 6023021620595525431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_attack_29
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 127
+        width: 947
+        height: 1285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71f350ebd4667d0800000000000000
+      internalID: -2925565429403412530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rabbit_attack_0: 4452345611430867115
+      rabbit_attack_1: 7218165865408975108
+      rabbit_attack_10: -3601292126812742547
+      rabbit_attack_11: 890615786358023830
+      rabbit_attack_12: 8562368090059140763
+      rabbit_attack_13: 3330215660841721725
+      rabbit_attack_14: 1073762777603559698
+      rabbit_attack_15: -8207177773534989308
+      rabbit_attack_16: 5942437222671636400
+      rabbit_attack_17: -5845230743257702102
+      rabbit_attack_18: 2167950479380454159
+      rabbit_attack_19: 6137003683405688219
+      rabbit_attack_2: 6206949064434292969
+      rabbit_attack_20: -3604205804619470093
+      rabbit_attack_21: 2514154728368298925
+      rabbit_attack_22: -3159138041121856895
+      rabbit_attack_23: -2186753926296131509
+      rabbit_attack_24: 3413169555889041202
+      rabbit_attack_25: 6959915791181703562
+      rabbit_attack_26: 6212008194467213509
+      rabbit_attack_27: -1576578951235048674
+      rabbit_attack_28: 6023021620595525431
+      rabbit_attack_29: -2925565429403412530
+      rabbit_attack_3: 2581146175143571873
+      rabbit_attack_4: 4115768281019231147
+      rabbit_attack_5: -1729368979347192328
+      rabbit_attack_6: 4229791313224182577
+      rabbit_attack_7: -1582441581475857292
+      rabbit_attack_8: -2096062513520232253
+      rabbit_attack_9: 4375749273999697588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

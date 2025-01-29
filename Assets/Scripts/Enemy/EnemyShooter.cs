@@ -39,6 +39,7 @@ public class EnemyShooter : MonoBehaviour
         {
             // Oyuncuya doğru yönelme
             Vector3 direction = player.position - firePoint.position;
+            direction.y = 0;  // Y eksenindeki hareketi engellemek için
             direction.z = 0;  // Z eksenindeki hareketi engellemek için
             direction.Normalize();  // Yönü normalize et
 

@@ -21,7 +21,7 @@ public class RabbitShooter : MonoBehaviour
     void ShootRandomly()
     {
         // Tavşanın baktığı yönü al (sağa veya sola bakabilir)
-        Vector3 forwardDirection = transform.localScale.x > 0 ? transform.right : -transform.right;
+        Vector3 forwardDirection = transform.localScale.x < 0 ? transform.right : -transform.right;
 
         // Rastgele bir açı seç
         float randomAngle = Random.Range(-shootAngleRange, shootAngleRange); // -shootAngle ile +shootAngle arası bir açı

@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 2f431a3e1868e874bb1b708715441200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5273520009521293803
+    second: owl_idle_0
+  - first:
+      213: -6624850508397752091
+    second: owl_idle_1
+  - first:
+      213: -6444995067100750728
+    second: owl_idle_2
+  - first:
+      213: 7976625366336365799
+    second: owl_idle_3
+  - first:
+      213: 7058965415713647957
+    second: owl_idle_4
+  - first:
+      213: 2743092644162370439
+    second: owl_idle_5
+  - first:
+      213: -846633429465855088
+    second: owl_idle_6
+  - first:
+      213: -607511209674195480
+    second: owl_idle_7
+  - first:
+      213: 4100708666144112272
+    second: owl_idle_8
+  - first:
+      213: -133841797173033825
+    second: owl_idle_9
+  - first:
+      213: 133472502354700181
+    second: owl_idle_10
+  - first:
+      213: 2320525638342128547
+    second: owl_idle_11
+  - first:
+      213: 91895539149821036
+    second: owl_idle_12
+  - first:
+      213: 7207837229294565502
+    second: owl_idle_13
+  - first:
+      213: -4325093262260939496
+    second: owl_idle_14
+  - first:
+      213: -4532699766973836045
+    second: owl_idle_15
+  - first:
+      213: 4873683235981484850
+    second: owl_idle_16
+  - first:
+      213: 794084316893199464
+    second: owl_idle_17
+  - first:
+      213: -2044913840125915685
+    second: owl_idle_18
+  - first:
+      213: -1554280277737251385
+    second: owl_idle_19
+  - first:
+      213: 1448715568242302353
+    second: owl_idle_20
+  - first:
+      213: 8656062498090158218
+    second: owl_idle_21
+  - first:
+      213: 1651916829388050113
+    second: owl_idle_22
+  - first:
+      213: -4889647985936046073
+    second: owl_idle_23
+  - first:
+      213: 7715152362322065700
+    second: owl_idle_24
+  - first:
+      213: 3938802860795962929
+    second: owl_idle_25
+  - first:
+      213: 9218716445633652066
+    second: owl_idle_26
+  - first:
+      213: -3348315723184559981
+    second: owl_idle_27
+  - first:
+      213: -3306182347751272273
+    second: owl_idle_28
+  - first:
+      213: 884816285880225471
+    second: owl_idle_29
+  - first:
+      213: -3411149253443461530
+    second: owl_idle_30
+  - first:
+      213: -7600313206510379620
+    second: owl_idle_31
+  - first:
+      213: -1087455869888951441
+    second: owl_idle_32
+  - first:
+      213: -5949821043087210959
+    second: owl_idle_33
+  - first:
+      213: 6998121425397600155
+    second: owl_idle_34
+  - first:
+      213: 2854679364888017644
+    second: owl_idle_35
+  - first:
+      213: 1132078720765265056
+    second: owl_idle_36
+  - first:
+      213: -7822362230459150835
+    second: owl_idle_37
+  - first:
+      213: -4495010363760251219
+    second: owl_idle_38
+  - first:
+      213: 2082260955195648098
+    second: owl_idle_39
+  - first:
+      213: 3143526184606958466
+    second: owl_idle_40
+  - first:
+      213: 7191210573317770250
+    second: owl_idle_41
+  - first:
+      213: -8302456864651245731
+    second: owl_idle_42
+  - first:
+      213: 7509535761486787440
+    second: owl_idle_43
+  - first:
+      213: 6132827692359850328
+    second: owl_idle_44
+  - first:
+      213: -1679943422374108666
+    second: owl_idle_45
+  - first:
+      213: 2519352729965368191
+    second: owl_idle_46
+  - first:
+      213: 96830619456183807
+    second: owl_idle_47
+  - first:
+      213: -3894572191035598087
+    second: owl_idle_48
+  - first:
+      213: 7392786134088657731
+    second: owl_idle_49
+  - first:
+      213: 8445687854554920048
+    second: owl_idle_50
+  - first:
+      213: -801312472397343728
+    second: owl_idle_51
+  - first:
+      213: -7449612191712092215
+    second: owl_idle_52
+  - first:
+      213: 5508240092258582398
+    second: owl_idle_53
+  - first:
+      213: -3082563815248830238
+    second: owl_idle_54
+  - first:
+      213: -128596457957932177
+    second: owl_idle_55
+  - first:
+      213: -5878001577802853623
+    second: owl_idle_56
+  - first:
+      213: -501615381748003814
+    second: owl_idle_57
+  - first:
+      213: 6199060522779258299
+    second: owl_idle_58
+  - first:
+      213: 8985650611542621717
+    second: owl_idle_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: owl_idle_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5147
+        width: 970
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be96e63228e4f2940800000000000000
+      internalID: 5273520009521293803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 5147
+        width: 970
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0d2e4009dcf04a0800000000000000
+      internalID: -6624850508397752091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_2
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 5147
+        width: 969
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c905e2227ce86a0800000000000000
+      internalID: -6444995067100750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_3
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 5147
+        width: 967
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e469da328aa2be60800000000000000
+      internalID: 7976625366336365799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_4
+      rect:
+        serializedVersion: 2
+        x: 5241
+        y: 5147
+        width: 964
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d216545ab76f160800000000000000
+      internalID: 7058965415713647957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_5
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 5147
+        width: 961
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf841f93c611620800000000000000
+      internalID: 2743092644162370439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_6
+      rect:
+        serializedVersion: 2
+        x: 7807
+        y: 5147
+        width: 958
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b87bda1672044f0800000000000000
+      internalID: -846633429465855088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_7
+      rect:
+        serializedVersion: 2
+        x: 9091
+        y: 5147
+        width: 954
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3d4606cfa197f0800000000000000
+      internalID: -607511209674195480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_8
+      rect:
+        serializedVersion: 2
+        x: 10376
+        y: 5147
+        width: 949
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb2ec2ec4a8e830800000000000000
+      internalID: 4100708666144112272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_9
+      rect:
+        serializedVersion: 2
+        x: 11660
+        y: 5147
+        width: 945
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94c667389f742ef0800000000000000
+      internalID: -133841797173033825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_10
+      rect:
+        serializedVersion: 2
+        x: 12945
+        y: 5147
+        width: 940
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976222a8803ad100800000000000000
+      internalID: 133472502354700181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_11
+      rect:
+        serializedVersion: 2
+        x: 14229
+        y: 5147
+        width: 936
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b19df5c9243020800000000000000
+      internalID: 2320525638342128547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3867
+        width: 931
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d777818a764100800000000000000
+      internalID: 91895539149821036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3867
+        width: 927
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7830f275c1670460800000000000000
+      internalID: 7207837229294565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3867
+        width: 923
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8155082e79e2af3c0800000000000000
+      internalID: -4325093262260939496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_15
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 3867
+        width: 919
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45704c39d9811c0800000000000000
+      internalID: -4532699766973836045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_16
+      rect:
+        serializedVersion: 2
+        x: 5290
+        y: 3867
+        width: 915
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233e37cc41dc2a340800000000000000
+      internalID: 4873683235981484850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_17
+      rect:
+        serializedVersion: 2
+        x: 6572
+        y: 3867
+        width: 913
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb02e9a77250b00800000000000000
+      internalID: 794084316893199464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_18
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 3867
+        width: 911
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc30362b10f93e0800000000000000
+      internalID: -2044913840125915685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_19
+      rect:
+        serializedVersion: 2
+        x: 9136
+        y: 3867
+        width: 909
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd531482561e6ae0800000000000000
+      internalID: -1554280277737251385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_20
+      rect:
+        serializedVersion: 2
+        x: 10416
+        y: 3867
+        width: 909
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d19a9322fda1410800000000000000
+      internalID: 1448715568242302353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_21
+      rect:
+        serializedVersion: 2
+        x: 11695
+        y: 3867
+        width: 910
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a888e30faf2802870800000000000000
+      internalID: 8656062498090158218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_22
+      rect:
+        serializedVersion: 2
+        x: 12973
+        y: 3867
+        width: 912
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0a26aa99cce610800000000000000
+      internalID: 1651916829388050113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_23
+      rect:
+        serializedVersion: 2
+        x: 14250
+        y: 3867
+        width: 915
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708e391301b742cb0800000000000000
+      internalID: -4889647985936046073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2587
+        width: 920
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f838623ab11b60800000000000000
+      internalID: 7715152362322065700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2587
+        width: 925
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136290e455079a630800000000000000
+      internalID: 3938802860795962929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_26
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2587
+        width: 932
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265ab03b3c57fef70800000000000000
+      internalID: 9218716445633652066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_27
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 2587
+        width: 938
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398aab307946881d0800000000000000
+      internalID: -3348315723184559981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_28
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 2587
+        width: 946
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa05e9feba41e12d0800000000000000
+      internalID: -3306182347751272273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_29
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 2587
+        width: 953
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0f5b59bf774c00800000000000000
+      internalID: 884816285880225471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_30
+      rect:
+        serializedVersion: 2
+        x: 7805
+        y: 2587
+        width: 960
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ed9a8b3d929a0d0800000000000000
+      internalID: -3411149253443461530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_31
+      rect:
+        serializedVersion: 2
+        x: 9077
+        y: 2587
+        width: 968
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d1d382863468690800000000000000
+      internalID: -7600313206510379620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_32
+      rect:
+        serializedVersion: 2
+        x: 10350
+        y: 2587
+        width: 975
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0b5ed5a498e0f0800000000000000
+      internalID: -1087455869888951441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_33
+      rect:
+        serializedVersion: 2
+        x: 11624
+        y: 2587
+        width: 981
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13684a9e84dfd6da0800000000000000
+      internalID: -5949821043087210959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_34
+      rect:
+        serializedVersion: 2
+        x: 12897
+        y: 2587
+        width: 988
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fcfd7db525e1160800000000000000
+      internalID: 6998121425397600155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_35
+      rect:
+        serializedVersion: 2
+        x: 14172
+        y: 2587
+        width: 993
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceab9c3f1cbdd9720800000000000000
+      internalID: 2854679364888017644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1307
+        width: 998
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40ef83993f5bf00800000000000000
+      internalID: 1132078720765265056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1307
+        width: 1002
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ecc0dfef2617390800000000000000
+      internalID: -7822362230459150835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1307
+        width: 1005
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeee56c3e38e91c0800000000000000
+      internalID: -4495010363760251219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_39
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 1307
+        width: 1007
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682a147e4da5ec10800000000000000
+      internalID: 2082260955195648098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_40
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 1307
+        width: 1008
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28303a7e86c00ab20800000000000000
+      internalID: 3143526184606958466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_41
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 1307
+        width: 1007
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c83af6aef4cc360800000000000000
+      internalID: 7191210573317770250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_42
+      rect:
+        serializedVersion: 2
+        x: 7759
+        y: 1307
+        width: 1006
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57857b487fb7cc80800000000000000
+      internalID: -8302456864651245731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_43
+      rect:
+        serializedVersion: 2
+        x: 9040
+        y: 1307
+        width: 1005
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733383ecfa373860800000000000000
+      internalID: 7509535761486787440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_44
+      rect:
+        serializedVersion: 2
+        x: 10321
+        y: 1307
+        width: 1004
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85999c70b4e2c1550800000000000000
+      internalID: 6132827692359850328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_45
+      rect:
+        serializedVersion: 2
+        x: 11603
+        y: 1307
+        width: 1002
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60223aaab54afa8e0800000000000000
+      internalID: -1679943422374108666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_46
+      rect:
+        serializedVersion: 2
+        x: 12885
+        y: 1307
+        width: 1000
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731f75b5f986f220800000000000000
+      internalID: 2519352729965368191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_47
+      rect:
+        serializedVersion: 2
+        x: 14168
+        y: 1307
+        width: 997
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd11147fe2085100800000000000000
+      internalID: 96830619456183807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 995
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa55310a33b3f9c0800000000000000
+      internalID: -3894572191035598087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 27
+        width: 992
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ba9cef1d3789660800000000000000
+      internalID: 7392786134088657731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_50
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 27
+        width: 990
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b3964b5c153570800000000000000
+      internalID: 8445687854554920048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_51
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 27
+        width: 987
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0149aa84d8a21e4f0800000000000000
+      internalID: -801312472397343728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_52
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 27
+        width: 984
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd49e6e29ad9890800000000000000
+      internalID: -7449612191712092215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_53
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 27
+        width: 981
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f33a41e23317c40800000000000000
+      internalID: 5508240092258582398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_54
+      rect:
+        serializedVersion: 2
+        x: 7786
+        y: 27
+        width: 979
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ee9aca888835d0800000000000000
+      internalID: -3082563815248830238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_55
+      rect:
+        serializedVersion: 2
+        x: 9068
+        y: 27
+        width: 977
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f634b0ce332273ef0800000000000000
+      internalID: -128596457957932177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_56
+      rect:
+        serializedVersion: 2
+        x: 10350
+        y: 27
+        width: 975
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90310ed35b42d6ea0800000000000000
+      internalID: -5878001577802853623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_57
+      rect:
+        serializedVersion: 2
+        x: 11632
+        y: 27
+        width: 973
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc90dc777e909f0800000000000000
+      internalID: -501615381748003814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_58
+      rect:
+        serializedVersion: 2
+        x: 12913
+        y: 27
+        width: 972
+        height: 1221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda76193bc770650800000000000000
+      internalID: 6199060522779258299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_idle_59
+      rect:
+        serializedVersion: 2
+        x: 14194
+        y: 27
+        width: 971
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef4c88f9173bc70800000000000000
+      internalID: 8985650611542621717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      owl_idle_0: 5273520009521293803
+      owl_idle_1: -6624850508397752091
+      owl_idle_10: 133472502354700181
+      owl_idle_11: 2320525638342128547
+      owl_idle_12: 91895539149821036
+      owl_idle_13: 7207837229294565502
+      owl_idle_14: -4325093262260939496
+      owl_idle_15: -4532699766973836045
+      owl_idle_16: 4873683235981484850
+      owl_idle_17: 794084316893199464
+      owl_idle_18: -2044913840125915685
+      owl_idle_19: -1554280277737251385
+      owl_idle_2: -6444995067100750728
+      owl_idle_20: 1448715568242302353
+      owl_idle_21: 8656062498090158218
+      owl_idle_22: 1651916829388050113
+      owl_idle_23: -4889647985936046073
+      owl_idle_24: 7715152362322065700
+      owl_idle_25: 3938802860795962929
+      owl_idle_26: 9218716445633652066
+      owl_idle_27: -3348315723184559981
+      owl_idle_28: -3306182347751272273
+      owl_idle_29: 884816285880225471
+      owl_idle_3: 7976625366336365799
+      owl_idle_30: -3411149253443461530
+      owl_idle_31: -7600313206510379620
+      owl_idle_32: -1087455869888951441
+      owl_idle_33: -5949821043087210959
+      owl_idle_34: 6998121425397600155
+      owl_idle_35: 2854679364888017644
+      owl_idle_36: 1132078720765265056
+      owl_idle_37: -7822362230459150835
+      owl_idle_38: -4495010363760251219
+      owl_idle_39: 2082260955195648098
+      owl_idle_4: 7058965415713647957
+      owl_idle_40: 3143526184606958466
+      owl_idle_41: 7191210573317770250
+      owl_idle_42: -8302456864651245731
+      owl_idle_43: 7509535761486787440
+      owl_idle_44: 6132827692359850328
+      owl_idle_45: -1679943422374108666
+      owl_idle_46: 2519352729965368191
+      owl_idle_47: 96830619456183807
+      owl_idle_48: -3894572191035598087
+      owl_idle_49: 7392786134088657731
+      owl_idle_5: 2743092644162370439
+      owl_idle_50: 8445687854554920048
+      owl_idle_51: -801312472397343728
+      owl_idle_52: -7449612191712092215
+      owl_idle_53: 5508240092258582398
+      owl_idle_54: -3082563815248830238
+      owl_idle_55: -128596457957932177
+      owl_idle_56: -5878001577802853623
+      owl_idle_57: -501615381748003814
+      owl_idle_58: 6199060522779258299
+      owl_idle_59: 8985650611542621717
+      owl_idle_6: -846633429465855088
+      owl_idle_7: -607511209674195480
+      owl_idle_8: 4100708666144112272
+      owl_idle_9: -133841797173033825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

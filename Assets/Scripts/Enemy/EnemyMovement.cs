@@ -34,11 +34,11 @@ public class EnemyMovement : MonoBehaviour
             // Düşman objesini sadece yatayda (sağa/sola) döndür
             if (direction.x > 0) // Oyuncu sağda
             {
-                transform.localScale = new Vector3(1, 1, 1);  // Sağ tarafa bakacak şekilde
+                transform.localScale = new Vector3(-1, 1, 1);  // Sağ tarafa bakacak şekilde
             }
             else if (direction.x < 0) // Oyuncu solda
             {
-                transform.localScale = new Vector3(-1, 1, 1);  // Sola bakacak şekilde
+                transform.localScale = new Vector3(1, 1, 1);  // Sola bakacak şekilde
             }
         }
     }

@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 2b4705cca4e08d4458d213bb81d384b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8885667249363592873
+    second: owl_attack_0
+  - first:
+      213: 3816164238811398097
+    second: owl_attack_1
+  - first:
+      213: -5759981259075918650
+    second: owl_attack_2
+  - first:
+      213: 6259540918715495744
+    second: owl_attack_3
+  - first:
+      213: 4030745191791870104
+    second: owl_attack_4
+  - first:
+      213: 6903690716198670840
+    second: owl_attack_5
+  - first:
+      213: -1304034546454064323
+    second: owl_attack_6
+  - first:
+      213: -5815058568020088605
+    second: owl_attack_7
+  - first:
+      213: 5408395453145689609
+    second: owl_attack_8
+  - first:
+      213: 5799657825655137926
+    second: owl_attack_9
+  - first:
+      213: 341993930105573833
+    second: owl_attack_10
+  - first:
+      213: 428474892144125208
+    second: owl_attack_11
+  - first:
+      213: 7737162562648181895
+    second: owl_attack_12
+  - first:
+      213: 5679585608051691152
+    second: owl_attack_13
+  - first:
+      213: -102900483458927785
+    second: owl_attack_14
+  - first:
+      213: -7043688204798311216
+    second: owl_attack_15
+  - first:
+      213: 1776403156496026683
+    second: owl_attack_16
+  - first:
+      213: -4238890109198641124
+    second: owl_attack_17
+  - first:
+      213: -3197765011201647313
+    second: owl_attack_18
+  - first:
+      213: -4465267939042479060
+    second: owl_attack_19
+  - first:
+      213: 3858787394050255793
+    second: owl_attack_20
+  - first:
+      213: -2693884417471692860
+    second: owl_attack_21
+  - first:
+      213: -4628432451570124895
+    second: owl_attack_22
+  - first:
+      213: -2968897223119219250
+    second: owl_attack_23
+  - first:
+      213: -7659656572544719323
+    second: owl_attack_24
+  - first:
+      213: -1010291445116536556
+    second: owl_attack_25
+  - first:
+      213: -2775312983915328738
+    second: owl_attack_26
+  - first:
+      213: -6804251843284609534
+    second: owl_attack_27
+  - first:
+      213: 3589053327485101488
+    second: owl_attack_28
+  - first:
+      213: -8872323124006027501
+    second: owl_attack_29
+  - first:
+      213: 3073398327432012567
+    second: owl_attack_30
+  - first:
+      213: 5826799120311370793
+    second: owl_attack_31
+  - first:
+      213: 4205753073524799177
+    second: owl_attack_32
+  - first:
+      213: 4739888699340412060
+    second: owl_attack_33
+  - first:
+      213: 5529345713924955241
+    second: owl_attack_34
+  - first:
+      213: -6185278639776684631
+    second: owl_attack_35
+  - first:
+      213: -5456331793065177699
+    second: owl_attack_36
+  - first:
+      213: 211273544538052758
+    second: owl_attack_37
+  - first:
+      213: -8070833715956040601
+    second: owl_attack_38
+  - first:
+      213: 3652562161531354850
+    second: owl_attack_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: owl_attack_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3867
+        width: 970
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595c5907b4cfa480800000000000000
+      internalID: -8885667249363592873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_1
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 3867
+        width: 966
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff6e2082db5f430800000000000000
+      internalID: 3816164238811398097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_2
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3867
+        width: 952
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46fd3009f6010b0800000000000000
+      internalID: -5759981259075918650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_3
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 3867
+        width: 929
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0453f051d4b5ed650800000000000000
+      internalID: 6259540918715495744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_4
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 3867
+        width: 900
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904ed8656510f730800000000000000
+      internalID: 4030745191791870104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_5
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 3867
+        width: 883
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f11f2a0126decf50800000000000000
+      internalID: 6903690716198670840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_6
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 3867
+        width: 872
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3394c33d7327ede0800000000000000
+      internalID: -1304034546454064323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_7
+      rect:
+        serializedVersion: 2
+        x: 9194
+        y: 3867
+        width: 884
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82219ba03cc4fa0800000000000000
+      internalID: -5815058568020088605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_8
+      rect:
+        serializedVersion: 2
+        x: 10468
+        y: 3867
+        width: 904
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e269d720b7e0b40800000000000000
+      internalID: 5408395453145689609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_9
+      rect:
+        serializedVersion: 2
+        x: 11734
+        y: 3867
+        width: 931
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862df480168c7050800000000000000
+      internalID: 5799657825655137926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_10
+      rect:
+        serializedVersion: 2
+        x: 13003
+        y: 3867
+        width: 954
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1584fdaa10fb400800000000000000
+      internalID: 341993930105573833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_11
+      rect:
+        serializedVersion: 2
+        x: 14275
+        y: 3867
+        width: 971
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ac6de4af32f500800000000000000
+      internalID: 428474892144125208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2587
+        width: 985
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c88148b5cef5b60800000000000000
+      internalID: 7737162562648181895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2587
+        width: 994
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e875fc401f1de40800000000000000
+      internalID: 5679585608051691152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_14
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 2587
+        width: 1000
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753f6343e8c629ef0800000000000000
+      internalID: -102900483458927785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_15
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 2587
+        width: 1002
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4436495eacf3e90800000000000000
+      internalID: -7043688204798311216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_16
+      rect:
+        serializedVersion: 2
+        x: 5306
+        y: 2587
+        width: 994
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c04d0524d07a810800000000000000
+      internalID: 1776403156496026683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_17
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 2587
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185c4f77ef6c25c0800000000000000
+      internalID: -4238890109198641124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_18
+      rect:
+        serializedVersion: 2
+        x: 7899
+        y: 2587
+        width: 921
+        height: 1253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d17203aa14f93d0800000000000000
+      internalID: -3197765011201647313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_19
+      rect:
+        serializedVersion: 2
+        x: 9199
+        y: 2587
+        width: 872
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24be6aa77e2802c0800000000000000
+      internalID: -4465267939042479060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_20
+      rect:
+        serializedVersion: 2
+        x: 10420
+        y: 2587
+        width: 960
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbee1ea0ba2d8530800000000000000
+      internalID: 3858787394050255793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_21
+      rect:
+        serializedVersion: 2
+        x: 11625
+        y: 2587
+        width: 1058
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb3a625666d9ad0800000000000000
+      internalID: -2693884417471692860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_22
+      rect:
+        serializedVersion: 2
+        x: 12853
+        y: 2587
+        width: 1125
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b541353184cfb0800000000000000
+      internalID: -4628432451570124895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_23
+      rect:
+        serializedVersion: 2
+        x: 14105
+        y: 2587
+        width: 1158
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d55994bb5cc6d0800000000000000
+      internalID: -2968897223119219250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1307
+        width: 1172
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266cfb0eee63b590800000000000000
+      internalID: -7659656572544719323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1307
+        width: 1177
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419763e8849baf1f0800000000000000
+      internalID: -1010291445116536556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_26
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1307
+        width: 1177
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b823d9b8b1c79d0800000000000000
+      internalID: -2775312983915328738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_27
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1307
+        width: 1172
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20659bebff07291a0800000000000000
+      internalID: -6804251843284609534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_28
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 1307
+        width: 1166
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5eea85cf0eec130800000000000000
+      internalID: 3589053327485101488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_29
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 1307
+        width: 1157
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff225502d2fd480800000000000000
+      internalID: -8872323124006027501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_30
+      rect:
+        serializedVersion: 2
+        x: 7687
+        y: 1307
+        width: 1143
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7136dd7ce77e6aa20800000000000000
+      internalID: 3073398327432012567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_31
+      rect:
+        serializedVersion: 2
+        x: 8973
+        y: 1307
+        width: 1129
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c7bf9de2fcd050800000000000000
+      internalID: 5826799120311370793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_32
+      rect:
+        serializedVersion: 2
+        x: 10259
+        y: 1307
+        width: 1114
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f3782326dd5a30800000000000000
+      internalID: 4205753073524799177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_33
+      rect:
+        serializedVersion: 2
+        x: 11547
+        y: 1307
+        width: 1098
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94d217b8a777c140800000000000000
+      internalID: 4739888699340412060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_34
+      rect:
+        serializedVersion: 2
+        x: 12837
+        y: 1307
+        width: 1079
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c53de81ae2cbc40800000000000000
+      internalID: 5529345713924955241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_35
+      rect:
+        serializedVersion: 2
+        x: 14129
+        y: 1307
+        width: 1059
+        height: 1239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ac4f19d9792aa0800000000000000
+      internalID: -6185278639776684631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 1037
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0ea1a4273744b0800000000000000
+      internalID: -5456331793065177699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 27
+        width: 1015
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d0ac5b289ee200800000000000000
+      internalID: 211273544538052758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_38
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 27
+        width: 995
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cb1371f73aeff80800000000000000
+      internalID: -8070833715956040601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_attack_39
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 27
+        width: 978
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eefb1e0fe180b230800000000000000
+      internalID: 3652562161531354850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      owl_attack_0: -8885667249363592873
+      owl_attack_1: 3816164238811398097
+      owl_attack_10: 341993930105573833
+      owl_attack_11: 428474892144125208
+      owl_attack_12: 7737162562648181895
+      owl_attack_13: 5679585608051691152
+      owl_attack_14: -102900483458927785
+      owl_attack_15: -7043688204798311216
+      owl_attack_16: 1776403156496026683
+      owl_attack_17: -4238890109198641124
+      owl_attack_18: -3197765011201647313
+      owl_attack_19: -4465267939042479060
+      owl_attack_2: -5759981259075918650
+      owl_attack_20: 3858787394050255793
+      owl_attack_21: -2693884417471692860
+      owl_attack_22: -4628432451570124895
+      owl_attack_23: -2968897223119219250
+      owl_attack_24: -7659656572544719323
+      owl_attack_25: -1010291445116536556
+      owl_attack_26: -2775312983915328738
+      owl_attack_27: -6804251843284609534
+      owl_attack_28: 3589053327485101488
+      owl_attack_29: -8872323124006027501
+      owl_attack_3: 6259540918715495744
+      owl_attack_30: 3073398327432012567
+      owl_attack_31: 5826799120311370793
+      owl_attack_32: 4205753073524799177
+      owl_attack_33: 4739888699340412060
+      owl_attack_34: 5529345713924955241
+      owl_attack_35: -6185278639776684631
+      owl_attack_36: -5456331793065177699
+      owl_attack_37: 211273544538052758
+      owl_attack_38: -8070833715956040601
+      owl_attack_39: 3652562161531354850
+      owl_attack_4: 4030745191791870104
+      owl_attack_5: 6903690716198670840
+      owl_attack_6: -1304034546454064323
+      owl_attack_7: -5815058568020088605
+      owl_attack_8: 5408395453145689609
+      owl_attack_9: 5799657825655137926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
