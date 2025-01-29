@@ -194,7 +194,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   currentHealth: 0
-  deathEffect: {fileID: 0}
+  deathEffect: {fileID: 3102376694408756983, guid: a9c3571256dbc334da1ba24258b5d5f5, type: 3}
 --- !u!95 &8386484420224746166
 Animator:
   serializedVersion: 7
