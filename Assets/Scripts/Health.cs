@@ -3,8 +3,10 @@ using UnityEngine;
 public class Health : MonoBehaviour
 {
     public float maxHealth = 100f;    // Maksimum sağlık
-    public float currentHealth;     // Mevcut sağlık
-    public GameObject deathEffect;   // Ölüm efekti (isteğe bağlı)
+    private float currentHealth;      // Mevcut sağlık
+    public GameObject deathEffect;    // Ölüm efekti (isteğe bağlı)
+
+    public bool isPlayer;  // Eğer bu true ise, Player için çalışacak, değilse Enemy için çalışacak
 
     void Start()
     {
@@ -42,8 +44,24 @@ public class Health : MonoBehaviour
             Instantiate(deathEffect, transform.position, Quaternion.identity);
         }
 
-        // Karakteri yok et
-        Destroy(gameObject);
+        if (isPlayer)
+        {
+            PlayerDied();
+        }
+        else
+        {
+            EnemyDied();
+        }
+    }
+
+    private void PlayerDied()
+    {
+        LevelManager.instance.GameOver(); // Oyunu bitir
+    }
+
+    private void EnemyDied()
+    {
+        Destroy(gameObject); // Düşmanı yok et
     }
 
     public float GetHealthPercentage()
