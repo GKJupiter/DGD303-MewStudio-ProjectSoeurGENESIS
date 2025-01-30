@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: be56e50dcca9cd4448c744d2d55c9108
+guid: 13bebee7f88aa984e9fcd301ddab4a45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -650561727362901719
-    second: settings_Button_0
+      213: -7941914504754379129
+    second: Sound_langPanel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: settings_Button_0
+      name: Sound_langPanel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 53
+        width: 646
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 929d1184e8db8f6f0800000000000000
-      internalID: -650561727362901719
+      spriteID: 786c79306d6a8c190800000000000000
+      internalID: -7941914504754379129
       vertices: []
       indices: 
       edges: []
