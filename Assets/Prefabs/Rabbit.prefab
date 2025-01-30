@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 8174900554954832296}
   - component: {fileID: 6040634911313422624}
   - component: {fileID: 1375801513140067164}
+  - component: {fileID: 4652884095163593444}
   m_Layer: 7
   m_Name: Rabbit
   m_TagString: Untagged
@@ -210,7 +211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  moveSpeed: 2.1
+  moveSpeed: 0
 --- !u!114 &6040634911313422624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,3 +244,26 @@ MonoBehaviour:
   fireRate: 0.75
   bulletSpeed: 5
   shootAngleRange: 20
+  npcAnimator: {fileID: 4652884095163593444}
+--- !u!95 &4652884095163593444
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6646351821856862543}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 054fe197afc20d7498421743fe51177a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

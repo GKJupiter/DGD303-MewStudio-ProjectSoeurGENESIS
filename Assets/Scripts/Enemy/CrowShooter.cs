@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NPCShooter : MonoBehaviour
+public class CrowShooter : MonoBehaviour
 {
     public GameObject bulletPrefab;  // Mermi prefab'i
     public Transform firePoint;      // Ate� noktas�
