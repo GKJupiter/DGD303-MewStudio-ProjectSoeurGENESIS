@@ -9,6 +9,8 @@ public class RabbitShooter : MonoBehaviour
     private float nextFireTime = 0f; // Son ateşten sonra ne kadar zaman geçtiğini kontrol eder
     public float shootAngleRange = 30f; // 2*shootAngleRange derecenin yarısı (sağ ve sol yönler için)
 
+    public Animator npcAnimator;  // Animasyon bağlantısı için
+
     void Update()
     {
         if (Time.time >= nextFireTime)
@@ -20,6 +22,9 @@ public class RabbitShooter : MonoBehaviour
 
     void ShootRandomly()
     {
+        // **Attack animasyonunu tetikle**
+        npcAnimator.SetTrigger("attackTrigger");
+
         // Tavşanın baktığı yönü al (sağa veya sola bakabilir)
         Vector3 forwardDirection = transform.localScale.x < 0 ? transform.right : -transform.right;
 
@@ -39,3 +44,4 @@ public class RabbitShooter : MonoBehaviour
         }
     }
 }
+

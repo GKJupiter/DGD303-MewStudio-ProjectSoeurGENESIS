@@ -171,9 +171,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      panel-025_0: 38212647028195675
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
