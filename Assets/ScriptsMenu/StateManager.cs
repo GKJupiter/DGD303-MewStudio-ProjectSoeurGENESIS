@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement; // Doğru ad alanı
 
 public class StateManager : MonoBehaviour
 {
@@ -10,7 +10,7 @@ public class StateManager : MonoBehaviour
 
     public void ChangeSceneByName(string name)
     {
-        if(name != null)
+        if (name != null)
         {
             SceneManager.LoadScene(name);
         }
